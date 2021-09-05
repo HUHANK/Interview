@@ -142,6 +142,8 @@
     <ClCompile Include="AlgorithmTopic.cpp" />
     <ClCompile Include="CRotate.cpp" />
     <ClCompile Include="CTimeStat.cpp" />
+    <ClCompile Include="LandPerimeter.cpp" />
+    <ClCompile Include="ListTopic.cpp" />
     <ClCompile Include="ShiftLetters.cpp" />
     <ClCompile Include="TwoSum.cpp" />
     <ClCompile Include="valid_parentheses.cpp" />

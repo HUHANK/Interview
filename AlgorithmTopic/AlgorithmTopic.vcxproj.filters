@@ -36,6 +36,12 @@
     <ClCompile Include="valid_parentheses.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ListTopic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LandPerimeter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CTimeStat.h">
