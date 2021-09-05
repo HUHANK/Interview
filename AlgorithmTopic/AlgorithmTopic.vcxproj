@@ -140,6 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmTopic.cpp" />
+    <ClCompile Include="CRotate.cpp" />
+    <ClCompile Include="CTimeStat.cpp" />
+    <ClCompile Include="ShiftLetters.cpp" />
+    <ClCompile Include="TwoSum.cpp" />
+    <ClCompile Include="valid_parentheses.cpp" />
+    <ClCompile Include="WordsCount.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CTimeStat.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

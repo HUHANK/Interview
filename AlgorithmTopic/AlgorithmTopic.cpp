@@ -2,10 +2,27 @@
 //
 
 #include <iostream>
+#include <stdio.h>
+
+using namespace std;
+
+extern void ShiftLettersTest();
+extern void testWordsCount();
+extern void testTwoSum();
+extern void TestRotate();
+extern void TestValidPHeses();
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    //ShiftLettersTest();
+    //testWordsCount();
+    //testTwoSum();
+    //TestRotate();
+    TestValidPHeses();
+    
+    std::cout << "Program End!\n";
+    getchar();
+    return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
