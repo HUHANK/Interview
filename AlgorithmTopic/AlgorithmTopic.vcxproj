@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmTopic.cpp" />
+    <ClCompile Include="BTree.cpp" />
     <ClCompile Include="CRotate.cpp" />
     <ClCompile Include="CTimeStat.cpp" />
     <ClCompile Include="LandPerimeter.cpp" />

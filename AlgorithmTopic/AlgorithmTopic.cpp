@@ -16,6 +16,7 @@ extern void testMergeTwoSortedList();
 extern void testReverseList();
 extern void testMiddleNode();
 extern void testLandPerimeter();
+extern void testBTree();
 
 void test1();
 
@@ -30,7 +31,8 @@ int main()
     //testReverseList();
     //testMiddleNode();
     //test1();
-    testLandPerimeter();
+    //testLandPerimeter();
+    testBTree();
     
     std::cout << "Program End!\n";
     getchar();
